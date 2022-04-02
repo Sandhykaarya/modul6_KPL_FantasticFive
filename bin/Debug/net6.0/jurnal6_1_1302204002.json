@@ -1,0 +1,15 @@
+{
+   "firstName": "Sandhyka Arya",
+   "lastName": "Driyawijaya",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Komplek P.U.",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}

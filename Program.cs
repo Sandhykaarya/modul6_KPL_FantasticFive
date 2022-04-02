@@ -6,7 +6,13 @@ namespace modul6_FantasticFive_47
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DataMahasiswa1302204002 mhs = new DataMahasiswa1302204002();
+
+            mhs.ReadJSON();
+
+            Teammembers1302204002 tms = new Teammembers1302204002();
+
+            
         }
     }
 }

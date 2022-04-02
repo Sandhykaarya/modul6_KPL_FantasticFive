@@ -1,0 +1,44 @@
+{
+  "members": [
+
+    {
+      "firstName": "Fahrizal",
+      "lastName": "Hilmi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204046"
+    },
+
+    {
+      "firstName": "Koi",
+      "lastName": "Rahadian",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204056"
+    },
+
+    {
+      "firstName": "Abieb",
+      "lastName": "Basnuril",
+      "gender": "male",
+      "age": 20,
+      "nim": "456754675"
+    },
+
+    {
+      "firstName": "Nicklaus",
+      "lastName": "Anakotta",
+      "gender": "male",
+      "age": 20,
+      "nim": "456754675"
+    },
+
+    {
+      "firstName": "Sandicka",
+      "lastName": "Arya",
+      "gender": "male",
+      "age": 20,
+      "nim": "456754675"
+    }
+  ]
+}
