@@ -6,9 +6,10 @@ namespace modul6_FantasticFive_47
     {
         static void Main(string[] args)
         {
-            DataMahasiswa1302204002 mhs = new DataMahasiswa1302204002();
+            DataMahasiswa1302204059 mhs = new DataMahasiswa1302204059();
 
-            mhs.ReadJSON();
+
+            
         }
     }
 }
